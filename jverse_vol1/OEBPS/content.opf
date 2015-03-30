@@ -1,1 +1,140 @@
-<?xml version="1.0"?>                <package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">                                   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">                    <dc:title>The Kevin Jenkins Anthology: Volume 1</dc:title>                    <dc:language>en</dc:language>                    <dc:identifier id="BookId" opf:scheme="UUID">24b8dc68-fde2-46aa-a746-a95ce36db452</dc:identifier>                    <dc:creator opf:file-as="Various Authors" opf:role="aut">Various Authors</dc:creator>                  </metadata>                                   <manifest>                    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" /><item id="the-kevin-jenkins-experience-part-1-1" href="2014-09-08_the-kevin-jenkins-experience-part-1-1.xhtml" media-type="application/xhtml+xml" /><item id="the-kevin-jenkins-experience-part-1-2" href="2014-09-08_the-kevin-jenkins-experience-part-1-2.xhtml" media-type="application/xhtml+xml" /><item id="the-kevin-jenkins-experience-part-2" href="2014-09-08_the-kevin-jenkins-experience-part-2.xhtml" media-type="application/xhtml+xml" /><item id="the-kevin-jenkins-experience-part-3" href="2014-09-08_the-kevin-jenkins-experience-part-3.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-1" href="2014-09-05_humans-dont-make-good-pets-part-1.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-2" href="2014-09-06_humans-dont-make-good-pets-part-2.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-3-1" href="2014-09-07_humans-dont-make-good-pets-part-3-1.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-3-2" href="2014-09-07_humans-dont-make-good-pets-part-3-2.xhtml" media-type="application/xhtml+xml" /><item id="run-little-monster" href="2014-09-08_run-little-monster.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-4" href="2014-09-07_humans-dont-make-good-pets-part-4.xhtml" media-type="application/xhtml+xml" /><item id="aftermath" href="2014-09-19_aftermath.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-5" href="2014-09-07_humans-dont-make-good-pets-part-5.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-6" href="2014-09-08_humans-dont-make-good-pets-part-6.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-7" href="2014-09-09_humans-dont-make-good-pets-part-7.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-8" href="2014-09-11_humans-dont-make-good-pets-part-8.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-9-1" href="2014-09-13_humans-dont-make-good-pets-part-9-1.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-9-2" href="2014-09-13_humans-dont-make-good-pets-part-9-2.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-10" href="2014-09-14_humans-dont-make-good-pets-part-10.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-11" href="2014-09-15_humans-dont-make-good-pets-part-11.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-12" href="2014-09-17_humans-dont-make-good-pets-part-12.xhtml" media-type="application/xhtml+xml" /><item id="monkeys-reaches-stars" href="2014-09-25_monkeys-reaches-stars.xhtml" media-type="application/xhtml+xml" /><item id="an-eventful-month" href="2014-09-22_an-eventful-month.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-13" href="2014-09-24_humans-dont-make-good-pets-part-13.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-14" href="2014-10-02_humans-dont-make-good-pets-part-14.xhtml" media-type="application/xhtml+xml" /><item id="the-tigers-cub" href="2014-10-03_the-tigers-cub.xhtml" media-type="application/xhtml+xml" /><item id="quarantine" href="2014-10-08_quarantine.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-15" href="2014-10-09_humans-dont-make-good-pets-part-15.xhtml" media-type="application/xhtml+xml" /><item id="quod-erat-demonstrandum-pars-i" href="2014-10-10_quod-erat-demonstrandum-pars-i.xhtml" media-type="application/xhtml+xml" /><item id="deliverance" href="2014-10-11_deliverance.xhtml" media-type="application/xhtml+xml" /><item id="rat-in-sheeps-clothing" href="2014-10-10_rat-in-sheeps-clothing.xhtml" media-type="application/xhtml+xml" /><item id="quod-erat-demonstrandum-pars-ii" href="2014-10-11_quod-erat-demonstrandum-pars-ii.xhtml" media-type="application/xhtml+xml" /><item id="salvage01-salvage" href="2014-10-12_salvage01-salvage.xhtml" media-type="application/xhtml+xml" /><item id="salvage02-food" href="2014-10-13_salvage02-food.xhtml" media-type="application/xhtml+xml" /><item id="quod-erat-demonstrandum-pars-iii" href="2014-10-12_quod-erat-demonstrandum-pars-iii.xhtml" media-type="application/xhtml+xml" /><item id="salvage03-hunting" href="2014-10-13_salvage03-hunting.xhtml" media-type="application/xhtml+xml" /><item id="quod-erat-demonstrandum-pars-iv" href="2014-10-13_quod-erat-demonstrandum-pars-iv.xhtml" media-type="application/xhtml+xml" /><item id="salvage04-turning-point" href="2014-10-14_salvage04-turning-point.xhtml" media-type="application/xhtml+xml" /><item id="salvage05-dead-mans-switch" href="2014-10-14_salvage05-dead-mans-switch.xhtml" media-type="application/xhtml+xml" /><item id="salvage06-robotic-death-machine" href="2014-10-15_salvage06-robotic-death-machine.xhtml" media-type="application/xhtml+xml" /><item id="salvage07-incompetence-in-command" href="2014-10-15_salvage07-incompetence-in-command.xhtml" media-type="application/xhtml+xml" /><item id="salvage08-check" href="2014-10-15_salvage08-check.xhtml" media-type="application/xhtml+xml" /><item id="salvage09-positions-of-power" href="2014-10-16_salvage09-positions-of-power.xhtml" media-type="application/xhtml+xml" /><item id="quod-erat-demonstrandum-pars-v" href="2014-10-18_quod-erat-demonstrandum-pars-v.xhtml" media-type="application/xhtml+xml" /><item id="salvage10-air-time" href="2014-10-16_salvage10-air-time.xhtml" media-type="application/xhtml+xml" /><item id="salvage11-victory-for-some" href="2014-10-16_salvage11-victory-for-some.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-16-1" href="2014-10-22_humans-dont-make-good-pets-part-16-1.xhtml" media-type="application/xhtml+xml" /><item id="humans-dont-make-good-pets-part-16-2" href="2014-10-26_humans-dont-make-good-pets-part-16-2.xhtml" media-type="application/xhtml+xml" /><item id="salvage12-the-backup-plan" href="2014-10-17_salvage12-the-backup-plan.xhtml" media-type="application/xhtml+xml" /><item id="interlude-ultimatum" href="2014-10-16_interlude-ultimatum.xhtml" media-type="application/xhtml+xml" /><item id="the-oxs-plan-part-1" href="2014-10-26_the-oxs-plan-part-1.xhtml" media-type="application/xhtml+xml" /><item id="the-oxs-plan-part-2" href="2014-10-26_the-oxs-plan-part-2.xhtml" media-type="application/xhtml+xml" /><item id="salvage13-plan-c-from-outer-space" href="2014-10-17_salvage13-plan-c-from-outer-space.xhtml" media-type="application/xhtml+xml" /><item id="salvage14-knight-takes-queen-checkmate" href="2014-10-18_salvage14-knight-takes-queen-checkmate.xhtml" media-type="application/xhtml+xml" /><item id="salvage15-solitude" href="2014-10-18_salvage15-solitude.xhtml" media-type="application/xhtml+xml" /><item id="salvage16-help" href="2014-10-21_salvage16-help.xhtml" media-type="application/xhtml+xml" /><item id="quod-erat-demonstrandum-pars-vi" href="2014-10-20_quod-erat-demonstrandum-pars-vi.xhtml" media-type="application/xhtml+xml" /><item id="salvage17-warp" href="2014-10-21_salvage17-warp.xhtml" media-type="application/xhtml+xml" /><item id="salvage18-fireworks" href="2014-10-22_salvage18-fireworks.xhtml" media-type="application/xhtml+xml" /><item id="salvage19-rogue-elements" href="2014-10-22_salvage19-rogue-elements.xhtml" media-type="application/xhtml+xml" /><item id="taking-back-the-sky" href="2014-10-22_taking-back-the-sky.xhtml" media-type="application/xhtml+xml" /></manifest><spine toc="ncx"><itemref idref="the-kevin-jenkins-experience-part-1-1" /><itemref idref="the-kevin-jenkins-experience-part-1-2" /><itemref idref="the-kevin-jenkins-experience-part-2" /><itemref idref="the-kevin-jenkins-experience-part-3" /><itemref idref="humans-dont-make-good-pets-part-1" /><itemref idref="humans-dont-make-good-pets-part-2" /><itemref idref="humans-dont-make-good-pets-part-3-1" /><itemref idref="humans-dont-make-good-pets-part-3-2" /><itemref idref="run-little-monster" /><itemref idref="humans-dont-make-good-pets-part-4" /><itemref idref="aftermath" /><itemref idref="humans-dont-make-good-pets-part-5" /><itemref idref="humans-dont-make-good-pets-part-6" /><itemref idref="humans-dont-make-good-pets-part-7" /><itemref idref="humans-dont-make-good-pets-part-8" /><itemref idref="humans-dont-make-good-pets-part-9-1" /><itemref idref="humans-dont-make-good-pets-part-9-2" /><itemref idref="humans-dont-make-good-pets-part-10" /><itemref idref="humans-dont-make-good-pets-part-11" /><itemref idref="humans-dont-make-good-pets-part-12" /><itemref idref="monkeys-reaches-stars" /><itemref idref="an-eventful-month" /><itemref idref="humans-dont-make-good-pets-part-13" /><itemref idref="humans-dont-make-good-pets-part-14" /><itemref idref="the-tigers-cub" /><itemref idref="quarantine" /><itemref idref="humans-dont-make-good-pets-part-15" /><itemref idref="quod-erat-demonstrandum-pars-i" /><itemref idref="deliverance" /><itemref idref="rat-in-sheeps-clothing" /><itemref idref="quod-erat-demonstrandum-pars-ii" /><itemref idref="salvage01-salvage" /><itemref idref="salvage02-food" /><itemref idref="quod-erat-demonstrandum-pars-iii" /><itemref idref="salvage03-hunting" /><itemref idref="quod-erat-demonstrandum-pars-iv" /><itemref idref="salvage04-turning-point" /><itemref idref="salvage05-dead-mans-switch" /><itemref idref="salvage06-robotic-death-machine" /><itemref idref="salvage07-incompetence-in-command" /><itemref idref="salvage08-check" /><itemref idref="salvage09-positions-of-power" /><itemref idref="quod-erat-demonstrandum-pars-v" /><itemref idref="salvage10-air-time" /><itemref idref="salvage11-victory-for-some" /><itemref idref="humans-dont-make-good-pets-part-16-1" /><itemref idref="humans-dont-make-good-pets-part-16-2" /><itemref idref="salvage12-the-backup-plan" /><itemref idref="interlude-ultimatum" /><itemref idref="the-oxs-plan-part-1" /><itemref idref="the-oxs-plan-part-2" /><itemref idref="salvage13-plan-c-from-outer-space" /><itemref idref="salvage14-knight-takes-queen-checkmate" /><itemref idref="salvage15-solitude" /><itemref idref="salvage16-help" /><itemref idref="quod-erat-demonstrandum-pars-vi" /><itemref idref="salvage17-warp" /><itemref idref="salvage18-fireworks" /><itemref idref="salvage19-rogue-elements" /><itemref idref="taking-back-the-sky" /></spine></package>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Kevin Jenkins Anthology: Volume 1</dc:title>
+    <dc:language>en</dc:language> 
+    <dc:creator opf:file-as="Various Authors" opf:role="aut">Various Authors</dc:creator>
+    <dc:publisher>HFY</dc:publisher> 
+    <dc:identifier id="BookId" opf:scheme="UUID">9d50d819-08b2-41cd-9a46-7b84703b3f9c</dc:identifier>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="css" href="styles.css" media-type="text/css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" href="cover.png" media-type="image/png"/>
+    <item id="the-kevin-jenkins-experience-part-1-1" href="2014-09-08_the-kevin-jenkins-experience-part-1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="the-kevin-jenkins-experience-part-1-2" href="2014-09-08_the-kevin-jenkins-experience-part-1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="the-kevin-jenkins-experience-part-2" href="2014-09-08_the-kevin-jenkins-experience-part-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="the-kevin-jenkins-experience-part-3" href="2014-09-08_the-kevin-jenkins-experience-part-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-1" href="2014-09-05_humans-dont-make-good-pets-part-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-2" href="2014-09-06_humans-dont-make-good-pets-part-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-3-1" href="2014-09-07_humans-dont-make-good-pets-part-3-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-3-2" href="2014-09-07_humans-dont-make-good-pets-part-3-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="run-little-monster" href="2014-09-08_run-little-monster.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-4" href="2014-09-07_humans-dont-make-good-pets-part-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="aftermath" href="2014-09-19_aftermath.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-5" href="2014-09-07_humans-dont-make-good-pets-part-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-6" href="2014-09-08_humans-dont-make-good-pets-part-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-7" href="2014-09-09_humans-dont-make-good-pets-part-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-8" href="2014-09-11_humans-dont-make-good-pets-part-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-9-1" href="2014-09-13_humans-dont-make-good-pets-part-9-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-9-2" href="2014-09-13_humans-dont-make-good-pets-part-9-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-10" href="2014-09-14_humans-dont-make-good-pets-part-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-11" href="2014-09-15_humans-dont-make-good-pets-part-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-12" href="2014-09-17_humans-dont-make-good-pets-part-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="monkeys-reaches-stars" href="2014-09-25_monkeys-reaches-stars.xhtml" media-type="application/xhtml+xml"/>
+    <item id="an-eventful-month" href="2014-09-22_an-eventful-month.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-13" href="2014-09-24_humans-dont-make-good-pets-part-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-14" href="2014-10-02_humans-dont-make-good-pets-part-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="the-tigers-cub" href="2014-10-03_the-tigers-cub.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quarantine" href="2014-10-08_quarantine.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-15" href="2014-10-09_humans-dont-make-good-pets-part-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quod-erat-demonstrandum-pars-i" href="2014-10-10_quod-erat-demonstrandum-pars-i.xhtml" media-type="application/xhtml+xml"/>
+    <item id="deliverance" href="2014-10-11_deliverance.xhtml" media-type="application/xhtml+xml"/>
+    <item id="rat-in-sheeps-clothing" href="2014-10-10_rat-in-sheeps-clothing.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quod-erat-demonstrandum-pars-ii" href="2014-10-11_quod-erat-demonstrandum-pars-ii.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage01-salvage" href="2014-10-12_salvage01-salvage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage02-food" href="2014-10-13_salvage02-food.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quod-erat-demonstrandum-pars-iii" href="2014-10-12_quod-erat-demonstrandum-pars-iii.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage03-hunting" href="2014-10-13_salvage03-hunting.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quod-erat-demonstrandum-pars-iv" href="2014-10-13_quod-erat-demonstrandum-pars-iv.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage04-turning-point" href="2014-10-14_salvage04-turning-point.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage05-dead-mans-switch" href="2014-10-14_salvage05-dead-mans-switch.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage06-robotic-death-machine" href="2014-10-15_salvage06-robotic-death-machine.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage07-incompetence-in-command" href="2014-10-15_salvage07-incompetence-in-command.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage08-check" href="2014-10-15_salvage08-check.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage09-positions-of-power" href="2014-10-16_salvage09-positions-of-power.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quod-erat-demonstrandum-pars-v" href="2014-10-18_quod-erat-demonstrandum-pars-v.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage10-air-time" href="2014-10-16_salvage10-air-time.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage11-victory-for-some" href="2014-10-16_salvage11-victory-for-some.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-16-1" href="2014-10-22_humans-dont-make-good-pets-part-16-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="humans-dont-make-good-pets-part-16-2" href="2014-10-26_humans-dont-make-good-pets-part-16-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage12-the-backup-plan" href="2014-10-17_salvage12-the-backup-plan.xhtml" media-type="application/xhtml+xml"/>
+    <item id="interlude-ultimatum" href="2014-10-16_interlude-ultimatum.xhtml" media-type="application/xhtml+xml"/>
+    <item id="the-oxs-plan-part-1" href="2014-10-26_the-oxs-plan-part-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="the-oxs-plan-part-2" href="2014-10-26_the-oxs-plan-part-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage13-plan-c-from-outer-space" href="2014-10-17_salvage13-plan-c-from-outer-space.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage14-knight-takes-queen-checkmate" href="2014-10-18_salvage14-knight-takes-queen-checkmate.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage15-solitude" href="2014-10-18_salvage15-solitude.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage16-help" href="2014-10-21_salvage16-help.xhtml" media-type="application/xhtml+xml"/>
+    <item id="quod-erat-demonstrandum-pars-vi" href="2014-10-20_quod-erat-demonstrandum-pars-vi.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage17-warp" href="2014-10-21_salvage17-warp.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage18-fireworks" href="2014-10-22_salvage18-fireworks.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salvage19-rogue-elements" href="2014-10-22_salvage19-rogue-elements.xhtml" media-type="application/xhtml+xml"/>
+    <item id="taking-back-the-sky" href="2014-10-22_taking-back-the-sky.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="the-kevin-jenkins-experience-part-1-1"/>
+    <itemref idref="the-kevin-jenkins-experience-part-1-2"/>
+    <itemref idref="the-kevin-jenkins-experience-part-2"/>
+    <itemref idref="the-kevin-jenkins-experience-part-3"/>
+    <itemref idref="humans-dont-make-good-pets-part-1"/>
+    <itemref idref="humans-dont-make-good-pets-part-2"/>
+    <itemref idref="humans-dont-make-good-pets-part-3-1"/>
+    <itemref idref="humans-dont-make-good-pets-part-3-2"/>
+    <itemref idref="run-little-monster"/>
+    <itemref idref="humans-dont-make-good-pets-part-4"/>
+    <itemref idref="aftermath"/>
+    <itemref idref="humans-dont-make-good-pets-part-5"/>
+    <itemref idref="humans-dont-make-good-pets-part-6"/>
+    <itemref idref="humans-dont-make-good-pets-part-7"/>
+    <itemref idref="humans-dont-make-good-pets-part-8"/>
+    <itemref idref="humans-dont-make-good-pets-part-9-1"/>
+    <itemref idref="humans-dont-make-good-pets-part-9-2"/>
+    <itemref idref="humans-dont-make-good-pets-part-10"/>
+    <itemref idref="humans-dont-make-good-pets-part-11"/>
+    <itemref idref="humans-dont-make-good-pets-part-12"/>
+    <itemref idref="monkeys-reaches-stars"/>
+    <itemref idref="an-eventful-month"/>
+    <itemref idref="humans-dont-make-good-pets-part-13"/>
+    <itemref idref="humans-dont-make-good-pets-part-14"/>
+    <itemref idref="the-tigers-cub"/>
+    <itemref idref="quarantine"/>
+    <itemref idref="humans-dont-make-good-pets-part-15"/>
+    <itemref idref="quod-erat-demonstrandum-pars-i"/>
+    <itemref idref="deliverance"/>
+    <itemref idref="rat-in-sheeps-clothing"/>
+    <itemref idref="quod-erat-demonstrandum-pars-ii"/>
+    <itemref idref="salvage01-salvage"/>
+    <itemref idref="salvage02-food"/>
+    <itemref idref="quod-erat-demonstrandum-pars-iii"/>
+    <itemref idref="salvage03-hunting"/>
+    <itemref idref="quod-erat-demonstrandum-pars-iv"/>
+    <itemref idref="salvage04-turning-point"/>
+    <itemref idref="salvage05-dead-mans-switch"/>
+    <itemref idref="salvage06-robotic-death-machine"/>
+    <itemref idref="salvage07-incompetence-in-command"/>
+    <itemref idref="salvage08-check"/>
+    <itemref idref="salvage09-positions-of-power"/>
+    <itemref idref="quod-erat-demonstrandum-pars-v"/>
+    <itemref idref="salvage10-air-time"/>
+    <itemref idref="salvage11-victory-for-some"/>
+    <itemref idref="humans-dont-make-good-pets-part-16-1"/>
+    <itemref idref="humans-dont-make-good-pets-part-16-2"/>
+    <itemref idref="salvage12-the-backup-plan"/>
+    <itemref idref="interlude-ultimatum"/>
+    <itemref idref="the-oxs-plan-part-1"/>
+    <itemref idref="the-oxs-plan-part-2"/>
+    <itemref idref="salvage13-plan-c-from-outer-space"/>
+    <itemref idref="salvage14-knight-takes-queen-checkmate"/>
+    <itemref idref="salvage15-solitude"/>
+    <itemref idref="salvage16-help"/>
+    <itemref idref="quod-erat-demonstrandum-pars-vi"/>
+    <itemref idref="salvage17-warp"/>
+    <itemref idref="salvage18-fireworks"/>
+    <itemref idref="salvage19-rogue-elements"/>
+    <itemref idref="taking-back-the-sky"/>
+  </spine>
+</package>
